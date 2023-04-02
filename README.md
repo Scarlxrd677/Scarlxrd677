@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Scarlxrd677, to me 17 y.o., i live in Russia
+- 👋 Hi, I’m @Scarlxrd677, to me 18 y.o., i live in Russia
 - 👀 I’m interested in site layouts, CSS, HTML
 - 🌱 I’m currently learning at the academy on WEB-developer
 - 🌱 At the present time i am learning HTML, CSS, JS, PHP, MySQL
